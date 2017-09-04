@@ -1,8 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+// Vamos a cambiar el archivo y vemos lo cambios en el repositorio.
+
+
 package ed06_tareaproyecto;
 
 /**
